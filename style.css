@@ -266,3 +266,15 @@ background-color:rgb(177, 177, 177);
 .addtasks{
     color:rgba(22, 22, 22, 0.675);
 }
+.addflex{
+    display:flex;
+    justify-content: space-around;
+}
+.cross{
+    margin-top:2%;
+    color:#858585;
+    font-family: sans-serif;
+}
+.link{
+    color:#858585;
+}
